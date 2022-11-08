@@ -14,5 +14,4 @@ class ShowForums extends Component
         return view('livewire.show-forums', compact('forums') );
     }
 
-
 }
